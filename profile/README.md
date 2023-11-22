@@ -4,4 +4,3 @@
    <!--<p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/975435574150316093.png"/>-->
 </p>
-</p>
