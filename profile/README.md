@@ -1,4 +1,4 @@
-<h3 align="center">Methane.wtf The best mods/software provider</h3>
+<h3 align="center">kamishiro.dev - The best mods/software provider</h3>
 <h3 align="center">romances most used languages</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=romancewastaken&show_icons=true&theme=dark&locale=en&layout=compact" alt="romancewastaken"/></p>
    <!--<p align="center">
